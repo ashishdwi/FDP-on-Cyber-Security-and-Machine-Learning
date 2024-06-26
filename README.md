@@ -2,10 +2,8 @@
 Five-day Faculty Development Program on Cyber Security and Machine Learning in Hybrid Mode
 
    22nd July 2024 – 26th July 2024
-   
-       Organized by
-       ![image](https://github.com/ashishdwi/FDP-on-Cyber-Security-and-Machine-Learning/assets/86651387/e17f553f-0ebb-4432-8fdf-a5965913f429)
 
+   Organized by
        
 Department of Computer Science and Engineering
 
